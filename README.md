@@ -1,4 +1,4 @@
-# Foster's Modded Minecraft Client
+## Foster's Modded Minecraft Client
 
 To get started:
 1. If you don't have it, [acquire the latest version of 64-bit Java 8](http://www.java.com/en/download/windows-64bit.jsp)
