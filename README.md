@@ -18,4 +18,4 @@ To get started:
 
 Notes:
 * You may want to rename the "FTB Infinity Evolved" setup in Curse for clarity.
-* The [client and server are both available here](https://github.com/unlimitedgore/Minecraft)
+* The [server is available here](https://github.com/unlimitedgore/Minecraft)
