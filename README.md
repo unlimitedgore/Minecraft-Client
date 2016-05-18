@@ -16,6 +16,6 @@ To get started:
 
 0. Join the server (address not specified here)
 
-Notes:
+Notes for after you get setup:
 * You may want to rename the "FTB Infinity Evolved" setup in Curse for clarity.
 * The [server is available here](https://github.com/unlimitedgore/Minecraft)
