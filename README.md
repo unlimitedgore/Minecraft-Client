@@ -6,7 +6,7 @@ To get started:
 
 0. Download the [base Minecraft client from Mojang/Microsoft](http://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar)
 
-0. [Download the Curse Client](https://www.curse.com/games/minecraft)
+0. [Download the Curse Client](https://www.curse.com/games/minecraft) for Minecraft
 
 0. Run Curse, "Browse FTB Modpacks", and install the "FTB Infinity Evolved" Minecraft modpack
 
