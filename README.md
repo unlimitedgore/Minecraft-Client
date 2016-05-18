@@ -8,9 +8,9 @@ To get started:
 
 0. [Download the Curse Client](https://www.curse.com/games/minecraft)
 
-0. Run curse and install the "FTB Infinity Evolved" Minecraft modpack
+0. Run Curse, "Browse FTB Modpacks", and install the "FTB Infinity Evolved" Minecraft modpack
 
-0. [Download this repository as a ZIP](https://github.com/unlimitedgore/Minecraft-Client/archive/master.zip), and execute setup.bat
+0. [Download this repository as a ZIP](https://github.com/unlimitedgore/Minecraft-Client/archive/master.zip), Extract All to any location, and execute setup.bat (Note: you can delete the extracted folder after setup.bat completes)
 
 0. Start "FTB Infinity Evolved" from the Curse client
 
